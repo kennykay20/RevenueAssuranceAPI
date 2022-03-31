@@ -1,0 +1,14 @@
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\bin\Release\netcoreapp2.1\anythingGoodApi.deps.json
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\bin\Release\netcoreapp2.1\anythingGoodApi.runtimeconfig.json
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\bin\Release\netcoreapp2.1\anythingGoodApi.runtimeconfig.dev.json
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\bin\Release\netcoreapp2.1\anythingGoodApi.dll
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\bin\Release\netcoreapp2.1\anythingGoodApi.pdb
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.csprojAssemblyReference.cache
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.csproj.CoreCompileInputs.cache
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.RazorAssemblyInfo.cache
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.RazorAssemblyInfo.cs
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.AssemblyInfoInputs.cache
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.AssemblyInfo.cs
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.RazorTargetAssemblyInfo.cache
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.dll
+C:\Users\IETECH\Documents\Projects\anythinggoods\anythingGoodApi\obj\Release\netcoreapp2.1\anythingGoodApi.pdb

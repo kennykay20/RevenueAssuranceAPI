@@ -1,0 +1,47 @@
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\6cb3ef12-520c-4430-9cd1-670f61f99914 (2).jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\6cb3ef12-520c-4430-9cd1-670f61f99914.jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\7c773bbe-57d4-410b-bd57-2db4f6aede74.jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\abddec55-f437-46f2-b384-2eb068ea965b.jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\ae78bada-667e-4453-b520-6e130210e655 (2) - Copy.jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\ae78bada-667e-4453-b520-6e130210e655 (2).jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\ae78bada-667e-4453-b520-6e130210e655 (3) - Copy.jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\ae78bada-667e-4453-b520-6e130210e655.jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\d23e6b1b-6291-45f8-b840-0784f1dd3aa4 (2).jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\wwwroot\Upload\d23e6b1b-6291-45f8-b840-0784f1dd3aa4.jpg
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\appsettings.Development.json
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\appsettings.json
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\RevAssurance.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\RevAssurance.deps.json
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\RevAssurance.runtimeconfig.json
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\RevAssurance.pdb
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\AspNetCore.RouteAnalyzer.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\AutoMapper.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Consul.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Dapper.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Microsoft.Extensions.Caching.Redis.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Microsoft.IdentityModel.Logging.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Microsoft.IdentityModel.Tokens.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Serilog.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Serilog.AspNetCore.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Serilog.Extensions.Logging.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Serilog.Settings.Configuration.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Serilog.Sinks.Console.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Serilog.Sinks.File.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Serilog.Sinks.RollingFile.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\StackExchange.Redis.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\StackExchange.Redis.StrongName.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Swashbuckle.AspNetCore.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\System.IdentityModel.Tokens.Jwt.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\System.ServiceModel.Http.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\System.ServiceModel.Primitives.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\Twilio.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\runtimes\unix\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\IETECH\RevenueAssurance\RevAss\RevApis\latest\RevAssuranceApi\RevAssuranceApi\bin\Release\netcoreapp2.1\publish\runtimes\win7\lib\netstandard1.3\System.Private.ServiceModel.dll
